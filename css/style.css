@@ -1,0 +1,30 @@
+.container {
+  margin: 20px 0px;
+}
+.name
+{
+  font-weight: bold;
+}
+.time
+{
+    font-style: italic;
+}
+.status
+{
+  color: red;
+}
+.chatRow
+{
+  margin-bottom: 20px;
+  padding: 5px;
+  border-bottom: 1px dashed #999;
+}
+#chatWindow {
+  background: #F3F3F3;
+  border: 1px solid #CCC;
+  padding: 10px;
+  margin: 10px 0px;
+  border-radius: 3px;
+  overflow: auto;
+  max-height: 300px;
+}
